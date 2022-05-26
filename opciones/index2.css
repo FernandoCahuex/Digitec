@@ -1,0 +1,229 @@
+/* configuarion General */
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+html{
+    background-color: #CFCFCF;
+}
+
+.box1{
+    width: 85%;
+    height: auto;
+    padding-bottom:70px;
+    margin: auto;
+    margin-top: 43px;
+    background-color: #FFFFFF;
+}
+.bar1{
+    width: auto;
+    height: 120px;
+    background-color: #FF914C;
+    padding-top: 22px;
+    padding-left: 140px;
+    display:flex;
+    flex-direction: row;
+
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+}
+.inicio{
+    padding-top: 20px;
+    height: 80px;
+    width: 200px;
+    margin-left: 90px;
+}
+.productos{
+    padding-top: 20px;
+    height: 80px;
+    width: 200px;
+    margin-left: 10px;
+}
+.info{
+    padding-top: 20px;
+    height: 80px;
+    width: 350px;
+    margin-left: 90px;
+}
+
+.logo-l{
+    color: #B3B57B;
+    font-family: 'Mitr', sans-serif;
+    font-style:normal;
+    font-size: 60px;
+}
+.opcion-l{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    margin: auto;
+}
+/* ---------------------------------------------------- */
+/* configuarion "INICIO" */
+.box2{
+    width: 85%;
+    height: auto;
+    padding-bottom:70px;
+    margin: auto;
+    margin-top: 43px;
+    background-color: #F3EFEF;
+}
+.title1-l{
+    font-family: 'Mitr', sans-serif;
+    font-style:normal;
+    font-size: 90px;
+    color: #FF914C;
+    text-align: center;
+}
+.text1{
+    margin-left: 210px;
+    width: 650px;
+}
+.text1-l{
+    font-family: 'Mitr', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.contenedor1{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+.text-b{
+    text-align: center;
+}
+.subcontenedor1{
+    width: 100%;
+    margin-top: 100px;
+    color: black;
+    font-size: 90px;
+    text-align: center;
+    
+}
+.contenedor2{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction:row;
+}
+.subcontenedor2{
+    width: 200px;
+    height: 200px;
+    margin-left: 120px;
+    margin-top: 100px;
+    font-size: 90px;
+    background-color: white; 
+}
+.img-subc{
+    height: 180px;
+    width: auto;
+    background-color: white;
+ 
+}
+.textosubc{
+    height: 55px;
+    width: auto;
+    background-color: #C4C4C4;
+ 
+}
+.textosubc-l{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    color: black;
+}
+
+/* ----------------------------------------------------- */
+
+.img-img{
+    margin: auto;
+    padding: auto;
+    width: 100%;
+    height: 89%;
+}
+/* parte de opciones  */
+.box-op1{
+    width: 100%;
+    height: auto ;
+    padding-top: 50px;
+    padding-left: 100px;
+    display: flex;
+    flex-direction:row ;
+}
+.img-op1{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+.txt-op1{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+.boton-op1{
+    width: 200px;
+    height: 80px;
+    background-color: white;
+    margin-left :100px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 50px;
+    border-style: dashed;
+    margin-top: 100px;
+}
+.txt-boton{
+    font-size: 30px;
+    font-family: 'Mitr', sans-serif;
+    padding-top: 12px;
+}
+.img-op{
+    width: 80px;
+    height: 80px;
+}
+.Contactanos{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+
+}
+.contacto{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+}
+/* parte de eleccion */
+.txt-elec{
+    width: 100%;
+    margin-top: 100px;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Mitr', sans-serif;
+}
+.contenedor2-elec{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+.opcion-elec{
+    width: 250px;
+    height: 360px;
+    margin-left: 200px;
+    text-align: center;
+}
+.subtxt-elec{
+    font-size: 30px;
+    font-family: 'Mitr', sans-serif;
+    text-decoration: none;
+}
