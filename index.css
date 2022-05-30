@@ -252,3 +252,15 @@ html{
     margin: auto;
     display: block;
 }
+/* parte de whatsapp */
+.img-wha{
+    width: 100%;
+    height: 80%;
+}
+.link-wha{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    text-decoration:dashed;
+    font-size: 30px;
+}
