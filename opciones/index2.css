@@ -244,3 +244,72 @@ html{
     background-color: red;
     margin-top: 100px;
 }
+/* parte de comprar en la pagina */
+.t-p{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 30px;
+    font-family: 'Mitr', sans-serif;
+}
+.f-a{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    
+}
+.ds{
+    display: flex;
+    flex-direction: column;
+}
+.i-t{
+    height: 40px;
+    font-size: 20px;
+}
+.txt-c{
+    font-size: 25px;
+    font-family: 'Mitr', sans-serif;
+}
+.txt-oc{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.f-ic{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-top:40px;
+}
+.ntu{
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    margin-left: 50px;
+    font-family: 'Mitr', sans-serif;
+    margin-right: 300px;
+}
+.ntu-txt{
+    padding-top: 18px;
+    margin-right: 10px;
+}
+.img-ntu{
+    width: 60px;
+    height: 60px;
+}
+.continuar-ic{
+    font-size: 20px;
+    padding-top: 18px;
+    font-family: 'Mitr', sans-serif;
+    display: flex;
+    flex-direction: row;
+    
+}
+.img-cic{
+    width: 40px;
+    height: 40px;
+}
